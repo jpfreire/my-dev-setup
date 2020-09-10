@@ -3,8 +3,10 @@
 #Oh-my-zsh
 
 ## Tema p10k
-em .zshrc
-tema 
+(p10k)[https://awesomeopensource.com/project/romkatv/powerlevel10k]
+
+*em .zshrc*
+
 ```bash
 ZSH_THEME="powerlevel10k/powerlevel10k"
 export LANG=en_US.UTF-8

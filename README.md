@@ -2,8 +2,11 @@
 
 #Oh-my-zsh
 
+Donwload da fonte (FiraCode Nerd Font)[https://www.nerdfonts.com/font-downloads]
+
 ## Tema p10k
 [p10k](https://awesomeopensource.com/project/romkatv/powerlevel10k)
+
 
 *em .zshrc*
 
@@ -18,6 +21,4 @@ cor de fundo das pastas
 eval $(dircolors -p | sed -e 's/DIR 01;34/DIR 01;36/' | dircolors /dev/stdin)
 eval $(dircolors -p | sed -e 's/STICKY_OTHER_WRITABLE 30;42/STICKY_OTHER_WRITABLE 48;5;238/' | dircolors /dev/stdin)
 eval $(dircolors -p | sed -e 's/OTHER_WRITABLE 34;42/OTHER_WRITABLE 48;5;238/' | dircolors /dev/stdin)
-
-
 ```
